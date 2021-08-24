@@ -1,6 +1,8 @@
-# OverTheWire Natas
-https://overthewire.org/wargames/natas/
- Solution for Natas levels on Over the Wire
+# OverTheWire Natas  
+<br>
+
+ Solution for Natas levels on [OverTheWire](https://overthewire.org/wargames/natas/)
+ 
  ## Contents
 * [Level 0](#level-0)
 * [Level 0 - Level 1](#level-0---level-1)
